@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">please enter your name</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="_0_10">0/10</string>
+    <string name="questions">What country does this flag belong to?</string>
+    <string name="option1">apple</string>
+    <string name="option3">android</string>
+    <string name="option4">Nokia</string>
+    <string name="option2">Google</string>
+    <string name="submit">SUBMIT</string>
+    <string name="todo">TODO</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="username">Username</string>
+    <string name="your_score_is_9_out_of_10">Your score is 9 out of 10</string>
+    <string name="finish">FINISH</string>
+</resources>
